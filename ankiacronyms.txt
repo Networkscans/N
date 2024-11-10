@@ -1,0 +1,161 @@
+ACL;Access Control List<br><br>A list of permissions attached to an object that specifies which users or system processes are granted access to objects and what operations are allowed.
+AH;Authentication Header<br><br>A protocol that provides connectionless integrity and data origin authentication for IP datagrams.
+AP;Access Point<br><br>A networking hardware device that allows other Wi-Fi devices to connect to a wired network or wireless network.
+API;Application Programming Interface<br><br>A set of routines, protocols, and tools for building software and applications.
+APIPA;Automatic Private Internet Protocol Addressing<br><br>A feature of Windows that automatically assigns a private IP address when a DHCP server is unavailable.
+ARP;Address Resolution Protocol<br><br>A protocol used to map IP network addresses to the hardware addresses used by a data link protocol.
+AUP;Acceptable Use Policy<br><br>A set of rules applied by the owner of a network or Internet service to regulate the use of that network or service.
+BGP;Border Gateway Protocol<br><br>A protocol used to exchange routing information between different networks on the Internet.
+BNC;Bayonet Neill–Concelman<br><br>A type of connector used with coaxial cable, often for radio frequency connections.
+BSSID;Basic Service Set Identifier<br><br>A unique identifier associated with a specific wireless access point.
+BYOD;Bring Your Own Device<br><br>A policy allowing employees to use their personal devices for work purposes.
+CAM;Content-addressable Memory<br><br>A type of memory where data is accessed based on content rather than address.
+CDN;Content Delivery Network<br><br>A network of distributed servers that work together to deliver web content quickly to users.
+CDP;Cisco Discovery Protocol<br><br>A proprietary protocol used by Cisco devices to discover information about other Cisco devices on the network.
+CIA;Confidentiality, Integrity, and Availability<br><br>The three core principles of information security.
+CIDR;Classless Inter-domain Routing<br><br>A method for allocating IP addresses and routing IP packets.
+CLI;Command-line Interface<br><br>A text-based interface used to interact with software or operating systems.
+CNAME;Canonical Name<br><br>A DNS record that maps an alias to the true or canonical domain name.
+CPU;Central Processing Unit<br><br>The primary component of a computer that performs most of the processing inside.
+CRC;Cyclic Redundancy Check<br><br>A method used to detect errors in digital data.
+DAC;Direct Attach Copper<br><br>A type of cabling used to connect network devices directly with copper cables.
+DAS;Direct-attached Storage<br><br>Storage devices that are directly attached to a computer or server, not accessible over a network.
+DCI;Data Center Interconnect<br><br>Technologies used to connect multiple data centers.
+DDoS;Distributed Denial-of-service<br><br>An attack where multiple systems overwhelm a network or service to disrupt its operation.
+DHCP;Dynamic Host Configuration Protocol<br><br>A network management protocol used to automatically assign IP addresses to devices on a network.
+DLP;Data Loss Prevention<br><br>Technologies and policies used to prevent data breaches and loss.
+DNS;Domain Name System<br><br>A system that translates human-friendly domain names into IP addresses.
+DNSSEC;Domain Name System Security Extensions<br><br>A suite of extensions that add security to DNS by enabling authentication of DNS data.
+DoH;DNS over Hypertext Transfer Protocol Secure<br><br>A protocol for performing remote Domain Name System (DNS) resolution via the HTTPS protocol.
+DoS;Denial-of-service<br><br>An attack intended to shut down a machine or network, making it inaccessible to its intended users.
+DoT;DNS over Transport Layer Security<br><br>A protocol that encrypts DNS queries and responses for added security.
+DR;Disaster Recovery<br><br>Strategies and processes for recovering from a catastrophic event affecting IT infrastructure.
+EAPoL;Extensible Authentication Protocol over LAN<br><br>An authentication protocol used to provide secure authentication on a network.
+EIGRP;Enhanced Interior Gateway Routing Protocol<br><br>A Cisco proprietary routing protocol that uses distance vector routing with some link-state features.
+EOL;End-of-life<br><br>The point at which a product or system is no longer supported or sold by the manufacturer.
+EOS;End-of-support<br><br>The point at which a product or system will no longer receive technical support or updates.
+ESP;Encapsulating Security Payload<br><br>A protocol within the IPsec suite that provides data encryption and authentication.
+ESSID;Extended Service Set Identifier<br><br>A network name used to identify a specific wireless network.
+EULA;End User License Agreement<br><br>A legal agreement between a software producer and the user that outlines the terms of software use.
+FC;Fibre Channel<br><br>A high-speed network technology used primarily for storage area networks.
+FHRP;First Hop Redundancy Protocol<br><br>Protocols designed to provide redundancy for IP address assignments in case of a router failure.
+FTP;File Transfer Protocol<br><br>A standard network protocol used to transfer files from one host to another.
+GDPR;General Data Protection Regulation<br><br>A regulation in EU law on data protection and privacy for all individuals within the EU.
+GRE;Generic Routing Encapsulation<br><br>A protocol that encapsulates a wide variety of network layer protocols into point-to-point connections.
+GUI;Graphical User Interface<br><br>An interface that allows users to interact with electronic devices using graphical icons and visual indicators.
+HTTP;Hypertext Transfer Protocol<br><br>The protocol used for transferring hypertext requests and information on the World Wide Web.
+HTTPS;Hypertext Transfer Protocol Secure<br><br>An extension of HTTP that uses encryption for secure communication over a network.
+IaaS;Infrastructure as a Service<br><br>A cloud computing model that provides virtualized computing resources over the internet.
+IaC;Infrastructure as Code<br><br>A method of managing and provisioning computing infrastructure through machine-readable definition files.
+IAM;Identity and Access Management<br><br>Frameworks and technologies for managing digital identities and controlling access to resources.
+ICMP;Internet Control Message Protocol<br><br>A network layer protocol used for error reporting and diagnostic functions.
+ICS;Industrial Control System<br><br>Systems used to control industrial processes such as manufacturing, production, and power generation.
+IDF;Intermediate Distribution Frame<br><br>A distribution frame used to connect and manage cables between the main distribution frame and end-user equipment.
+IDS;Intrusion Detection System<br><br>A system designed to detect and respond to potential security threats or breaches.
+IoT;Internet of Things<br><br>A network of physical devices embedded with sensors and software to connect and exchange data.
+IIoT;Industrial Internet of Things<br><br>The use of IoT technology in industrial sectors for improved efficiency and automation.
+IKE;Internet Key Exchange<br><br>A protocol used to set up a security association in the IPsec protocol suite.
+IP;Internet Protocol<br><br>The principal communication protocol used for relaying datagrams across network boundaries.
+IPAM;Internet Protocol Address Management<br><br>A method of planning, managing, and tracking IP address allocations in a network.
+IPS;Intrusion Prevention System<br><br>A network security technology that monitors network and/or system activities for malicious activity.
+IPSec;Internet Protocol Security<br><br>A suite of protocols designed to ensure the integrity and confidentiality of data transmitted over IP networks.
+IS-IS;Intermediate System to Intermediate System<br><br>A routing protocol used for exchanging routing information within a single routing domain.
+LACP;Link Aggregation Control Protocol<br><br>A protocol used to combine multiple network connections into a single logical link.
+LAN;Local Area Network<br><br>A network that connects devices within a limited area such as a home or office.
+LC;Local Connector<br><br>A type of connector used for high-speed fiber optic connections.
+LDAP;Lightweight Directory Access Protocol<br><br>A protocol used to access and manage directory information services.
+LDAPS;Lightweight Directory Access Protocol over SSL<br><br>A secure version of LDAP that encrypts directory data during transmission.
+LLDP;Link Layer Discovery Protocol<br><br>A protocol used by network devices to advertise their identity and capabilities on a local network.
+MAC;Media Access Control<br><br>A unique identifier assigned to network interfaces for communications on the physical network segment.
+MDF;Main Distribution Frame<br><br>A central point where all the telecommunication lines are connected and managed.
+MDIX;Medium Dependent Interface Crossover<br><br>A type of Ethernet port configuration that automatically handles crossover connections.
+MFA;Multifactor Authentication<br><br>A security system that requires more than one form of verification to access a system or account.
+MIB;Management Information Base<br><br>A database used for managing the entities in a network.
+MPO;Multifiber Push On<br><br>A type of connector used for high-density fiber optic cabling.
+MTBF;Mean Time Between Failure<br><br>The average time between system failures.
+MTTR;Mean Time To Repair<br><br>The average time required to repair a failed component or system.
+MTU;Maximum Transmission Unit<br><br>The largest size packet or frame that can be sent in a single network layer transaction.
+MX;Mail Exchange<br><br>A DNS record that specifies the mail server responsible for receiving email messages.
+NAC;Network Access Control<br><br>A security solution that enforces policies for devices accessing a network.
+NAS;Network-attached Storage<br><br>A dedicated file storage device that provides local network access to data.
+NAT;Network Address Translation<br><br>A method for modifying network address information in IP packet headers while in transit.
+NFV;Network Functions Virtualization<br><br>A network architecture concept that virtualizes network functions traditionally run on hardware.
+NIC;Network Interface Card<br><br>A hardware component that connects a computer to a network.
+NS;Name Server<br><br>A server that provides DNS services and translates domain names to IP addresses.
+NTP;Network Time Protocol<br><br>A protocol used to synchronize the clocks of computers over a network.
+NTS;Network Time Security<br><br>A security extension of NTP that provides integrity and authenticity for time synchronization.
+OS;Operating System<br><br>Software that manages computer hardware and software resources and provides common services for computer programs.
+OSPF;Open Shortest Path First<br><br>A routing protocol used within a single autonomous system to find the best path for data packets.
+OSI;Open Systems Interconnection<br><br>A conceptual model that standardizes the functions of a telecommunication or computing system.
+OT;Operational Technology<br><br>Hardware and software that detects or causes changes through direct monitoring and control of physical devices.
+PaaS;Platform as a Service<br><br>A cloud computing model that provides a platform allowing customers to develop, run, and manage applications.
+PAT;Port Address Translation<br><br>A type of network address translation that maps multiple private IP addresses to a single public IP address.
+PCI DSS;Payment Card Industry Data Security Standards<br><br>A set of security standards designed to protect card information during and after a financial transaction.
+PDU;Power Distribution Unit<br><br>A device used to distribute electrical power to multiple devices.
+PKI;Public Key Infrastructure<br><br>A framework for managing digital keys and certificates for secure communications.
+PoE;Power over Ethernet<br><br>A technology that allows Ethernet cables to carry electrical power.
+PSK;Pre-shared Key<br><br>A method of authentication used in wireless networks where a key is shared among users in advance.
+PTP;Precision Time Protocol<br><br>A protocol used to synchronize clocks throughout a network with high accuracy.
+PTR;Pointer<br><br>A DNS record used to perform a reverse DNS lookup, mapping an IP address to a domain name.
+QoS;Quality of Service<br><br>A network feature that manages traffic to ensure performance and reliability.
+QSFP;Quad Small Form-factor Pluggable<br><br>A type of transceiver used for high-speed network connections.
+RADIUS;Remote Authentication Dial-in User Service<br><br>A protocol used for remote user authentication and accounting.
+RDP;Remote Desktop Protocol<br><br>A protocol developed by Microsoft to provide a user with a graphical interface to connect to another computer over a network.
+RFID;Radio Frequency Identifier<br><br>A technology that uses radio waves to automatically identify and track tags attached to objects.
+RIP;Routing Information Protocol<br><br>A distance-vector routing protocol used to manage routing information within a local network.
+RJ;Registered Jack<br><br>Standardized interfaces for connecting telecommunications equipment.
+RPO;Recovery Point Objective<br><br>The maximum acceptable amount of data loss measured in time.
+RSTP;Rapid Spanning Tree Protocol<br><br>An evolution of the Spanning Tree Protocol that provides faster convergence.
+RTO;Recovery Time Objective<br><br>The maximum acceptable time to restore a system or application after a disruption.
+RX;Receiver<br><br> A device or component that receives signals or data.
+SaaS;Software as a Service<br><br>A software distribution model where applications are hosted by a service provider and accessed over the internet.
+SAML;Security Assertion Markup Language<br><br>An XML-based framework for exchanging authentication and authorization data between parties.
+SAN;Storage Area Network<br><br>A high-speed network that provides access to consolidated, block-level data storage.
+SASE;Secure Access Service Edge<br><br>A network architecture that combines security and wide-area networking functionalities into a single service.
+SC;Subscriber Connector<br><br>A type of connector used in fiber optic cables.
+SCADA;Supervisory Control and Data Acquisition<br><br>A control system used to monitor and control industrial processes.
+SDN;Software-defined Network<br><br>A network architecture approach that allows network administrators to manage network services through abstraction of lower-level functionality.
+SD-WAN;Software-defined Wide Area Network<br><br>A virtualized WAN architecture that allows enterprises to securely connect any network.
+SFP;Small Form-factor Pluggable<br><br>A compact, hot-pluggable transceiver used in networking to provide high-speed data connections.
+SFTP;Secure File Transfer Protocol<br><br>A secure version of FTP that encrypts data during transmission.
+SIP;Session Initiation Protocol<br><br>A protocol used to initiate, maintain, and terminate real-time sessions that include voice, video, and messaging applications.
+SIEM;Security Information and Event Management<br><br>A system that provides real-time analysis of security alerts generated by network hardware and applications.
+SLA;Service-level Agreement<br><br>A contract that defines the level of service expected from a service provider.
+SLAAC;Stateless Address Autoconfiguration<br><br>A method used by IPv6 devices to automatically assign themselves an IP address.
+SMB;Server Message Block<br><br>A network file sharing protocol that allows applications to read and write to files and request services.
+SMTP;Simple Mail Transfer Protocol<br><br>A protocol used for sending email messages between servers.
+SMTPS;Simple Mail Transfer Protocol Secure<br><br>An extension of SMTP that uses encryption to secure email communication.
+SNMP;Simple Network Management Protocol<br><br>A protocol used to collect and organize information about managed devices on IP networks.
+SOA;Start of Authority<br><br>A DNS record that provides information about a domain and its zone.
+SQL;Structured Query Language<br><br>A programming language used to manage and manipulate relational databases.
+SSE;Security Service Edge<br><br>A cloud-based security model that provides threat protection and secure access to applications.
+SSH;Secure Shell<br><br>A protocol used to securely connect to remote systems and execute commands.
+SSID;Service Set Identifier<br><br>A unique identifier for a wireless network.
+SSL;Secure Socket Layer<br><br>A cryptographic protocol designed to provide secure communication over a network.
+SSO;Single Sign-on<br><br>An authentication process that allows a user to access multiple applications with one set of login credentials.
+ST;Straight Tip<br><br>A type of fiber optic connector used for high-density applications.
+STP;Shielded Twisted Pair<br><br>A type of network cable that has shielding to reduce electromagnetic interference.
+SVI;Switch Virtual Interface<br><br>A virtual interface on a switch used for routing in a Layer 3 switch.
+TACAS+;Terminal Access Controller Access Control System Plus<br><br>A protocol for authentication, authorization, and accounting used in network access control.
+TCP;Transmission Control Protocol<br><br>A core protocol of the Internet Protocol Suite that ensures reliable, ordered, and error-checked delivery of data.
+TFTP;Trivial File Transfer Protocol<br><br>A simple file transfer protocol used to transfer files with minimal overhead.
+TTL;Time to Live<br><br>A field in the IP header that specifies the lifetime of a packet or the number of hops before it is discarded.
+TX;Transmitter<br><br>A device or component that sends out signals or data.
+TXT;Text<br><br>A file format containing plain text without any formatting.
+UDP;User Datagram Protocol<br><br>A connectionless protocol used to send messages without establishing a connection first.
+UPS;Uninterruptible Power Supply<br><br>A device that provides backup power during electrical outages.
+URL;Uniform Resource Locator<br><br>The address used to access resources on the internet.
+USB;Universal Serial Bus<br><br>A standard for connecting peripherals to a computer and transferring data.
+UTM;Unified Threat Management<br><br>A comprehensive security solution that combines multiple security features into one device or service.
+UTP;Unshielded Twisted Pair<br><br>A type of network cable that is commonly used for Ethernet connections.
+VIP;Virtual IP<br><br>An IP address that is not tied to a specific physical network interface.
+VLAN;Virtual Local Area Network<br><br>A logical group of devices on a network that appears to be on the same LAN despite being on different physical networks.
+VLSM;Variable Length Subnet Mask<br><br>A technique used to divide an IP address space into subnets of different sizes.
+VoIP;Voice over IP<br><br>A technology that allows voice communication to be transmitted over IP networks.
+VPC;Virtual Private Cloud<br><br>A private cloud environment hosted within a public cloud infrastructure.
+VPN;Virtual Private Network<br><br>A technology that creates a secure connection over a public network.
+WAN;Wide Area Network<br><br>A telecommunications network that extends over a large geographical area.
+WPA;Wi-Fi Protected Access<br><br>A security protocol designed to protect wireless networks.
+WPS;Wi-Fi Protected Setup<br><br>A network security standard for easy and secure establishment of wireless networks.
+VXLAN;Virtual Extensible LAN<br><br>A network virtualization technology that encapsulates Ethernet frames in UDP packets.
+ZTA;Zero Trust Architecture<br><br>A security model that requires strict identity verification for all users, regardless of their location.
